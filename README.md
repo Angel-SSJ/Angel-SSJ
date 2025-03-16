@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🫡 I'm currently studying at "Universidad Evangelica de El Salvador"
+- 💪 I'm currently learning software developed
+- 🍃 The world is wonderful
+- 📪 Talk to me about anything, if I don't know it, I'll learn it
 <!--
 **Angel2807ra/Angel2807ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
