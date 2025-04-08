@@ -1,9 +1,15 @@
-## Hi there 👋
+## Hello World! I'm Angel, a Software Development Enthusiast  👋
 
-- 🫡 I'm currently studying at "Universidad Evangelica de El Salvador"
-- 💪 I'm currently learning software developed
-- 🍃 The world is wonderful
-- 📪 Talk to me about anything, if I don't know it, I'll learn it
+- 💪 I'm currently studying Software Development and Data Science Engineering at "Evangelical University of El Salvador"
+
+### My Hobbies 
+
+- 🍃 Playing soccer
+- 🍃 Playing videogames
+- 🍃 Learning new abilities
+- 🍃 Listening music
+
+📪 Talk to me about anything, if I don't know it, I'll learn it
 <!--
 **Angel2807ra/Angel2807ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
