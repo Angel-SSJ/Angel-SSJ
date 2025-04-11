@@ -1,6 +1,4 @@
-
-# 💫 About Me:
-## Hello World! I'm Angel, a Software Development Enthusiast  👋
+# Hello World! I'm Angel, a Software Development Enthusiast  👋
 💪 I'm currently studying Software Development and Data Science Engineering at "Evangelical University of El Salvador"<br>
 📪 Talk to me about anything, if I don't know it, I'll learn it
 
