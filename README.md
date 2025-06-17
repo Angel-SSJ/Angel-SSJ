@@ -3,9 +3,8 @@
 📪 Talk to me about anything, if I don't know it, I'll learn it
 
 ### My Hobbies 
-  - 🍃 Playing soccer
   - 🍃 Playing videogames
-  - 🍃 Learning new abilities
+  - 🍃 Learn new abilities
   - 🍃 Listening music
 
   
